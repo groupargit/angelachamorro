@@ -12440,6 +12440,24 @@ a.comment-edit-link {
 	    padding-top: 345px;
     padding-bottom: 100px;
 }
+.breadcumb-areablepa {
+    background:url(../images/img/belfaroplastia.jpeg);
+       background-position: center center;
+    background-repeat: no-repeat;
+	 background-size: cover;
+	 position: relative;
+	    padding-top: 445px;
+    padding-bottom: 100px;
+}
+.breadcumb-arealift {
+    background:url(../images/img/lifting2.jpeg);
+       background-position: center center;
+    background-repeat: no-repeat;
+	 background-size: cover;
+	 position: relative;
+	    padding-top: 445px;
+    padding-bottom: 100px;
+}
 	
 .breadcumb-area::before{
     position: absolute;
