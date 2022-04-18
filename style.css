@@ -26,3 +26,20 @@ Version: 1.0
 .my-float{
 	margin-top:16px;
 }
+/*slider action buttons in call to action*/
+.witr_slick_slider_area .slick-prev{
+	border-radius: 50%;
+}
+.witr_slick_slider_area .slick-next{
+	border-radius: 50%;
+}
+
+/*nav bar homepage styles*/
+.top_crt_style{
+	border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.hisfull_nav_area.postfix {
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;	
+}
